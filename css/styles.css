@@ -1,0 +1,140 @@
+
+#navbar {
+  overflow: hidden;
+  background-color: #444444;
+  height: 40px;
+}
+
+#navbar a {
+  float: left;
+  display: block;
+  text-align: center;
+}
+
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Bitter', serif;
+  background-color: black;
+}
+
+h1 {
+  font-size: 80px;
+  margin-top: 40px auto 0 auto;
+  font-family: 'Cinzel', serif;
+  color: #eaeaea;
+}
+
+h2 {
+  font-family: 'Lora', serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+  color: #dadddf;
+}
+
+h3 {
+  font-family: 'Bitter', serif;
+  color: #eaeaea;
+}
+
+a {
+  color: #eaeaea;
+  font-family: 'Bitter', serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #e6b2c6;
+  font-family: 'Bitter', serif;
+}
+
+a:visited {
+  color: #11999E;
+}
+
+hr {
+  border: dotted #EAf6f6 6px;
+  border-bottom: none;
+  width: 10%;
+  margin: 100px auto;
+}
+
+p { 
+  line-height: 2;
+  color: #eaeaea;
+}
+  .topContainer {
+  background-color: black;
+  position: relative;
+  padding-top: 40px;
+}
+
+  .middle-container {
+    background-color: #444444;
+}
+
+.intro {
+  width: 30%;
+  margin: auto;
+}
+
+.contact-message {
+  width: 40%;
+  margin: 4px auto 40px auto;
+}
+
+.bottom-container {
+  margin: 100px auto auto auto;
+  background-color: black;
+  padding: 50px 0 20px;
+}
+
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.top-image {
+  width: 50%;
+  top: 0px;
+}
+
+.skills-img-money {
+  width: 100px;
+  float: left;
+  margin-right: 30px;
+}
+
+.skills-img-axe{
+  width: 100px;
+  float: right;
+  margin-left: 30px;
+}
+
+.btn {
+  background: #33313b;
+  background-image: -webkit-linear-gradient(top, #33313b, #1199E);
+  background-image: -moz-linear-gradient(top, #33313b, #1199E);
+  background-image: -ms-linear-gradient(top, #33313b, #1199E);
+  background-image: -o-linear-gradient(top, #33313b, #1199E);
+  background-image: linear-gradient(to bottom, #33313b, #1199E);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: 'Bitter', serif;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+
+
+.copyright {
+  color: #444444;
+  font-family: 'Bitter', serif;
+  font-size: 0.75rem;
+}
